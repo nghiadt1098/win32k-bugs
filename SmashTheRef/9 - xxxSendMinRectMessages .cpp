@@ -1,4 +1,6 @@
 CVE-2020-0726
+Vuln: KB4534310
+Patch: KB4534310
 //
 // Gil Dabah 2019
 //
